@@ -1,0 +1,5 @@
+pdfminer.six>=20221105
+tqdm>=4.65.0
+argparse>=1.4.0
+pymupdf>=1.21.1
+markdown>=3.4.0 
